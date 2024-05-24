@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#webcamera , #imageshow
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#emotionName ,#emotionName2
+{
+  color: black;
+}
+.nameEmotion
+{
+  font-size: 40px;
+}
+.emotionEmoji
+{
+  font-size:48px;
+}
